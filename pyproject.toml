@@ -23,7 +23,6 @@ dependencies = [
   "nomad-external-eln-integrations",
   "nomad-unitov-plugin",
   "nomad-uibk-plugin",
-  "nomad
 ]
 
 [tool.uv.workspace]
