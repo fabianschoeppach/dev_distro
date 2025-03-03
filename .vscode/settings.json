@@ -1,5 +1,6 @@
 {
     "python.analysis.extraPaths": [
-        "./packages/nomad-FAIR"
+        "./packages/nomad-FAIR",
+        "./packages/IFM-Image-Defect-Detection"
     ]
 }
