@@ -3,7 +3,7 @@ name = "nomad-distribution"
 description = "nomad distribution template"
 version = "0.1"
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 license = { file = "LICENSE" }
 dependencies = [
   "nomad-lab[parsing, infrastructure]>=1.3.10",
@@ -43,7 +43,6 @@ perovskite-solar-cell-database = { workspace = true }
 nomad-unitov-plugin = { workspace = true }
 nomad-uibk-plugin = { workspace = true }
 ifm-image-defect-detection = { workspace = true }
-perovskite-solar-cell-database = { workspace = true }
 
 [tool.uv]
 extra-index-url = [
